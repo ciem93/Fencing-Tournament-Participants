@@ -72,7 +72,9 @@ def participants_list(link: str, f):
         f.write("-------------------------------------------------------------------------------------------------")
         f.write("\n")
 
-
+""""
+Garbage Code
+""""
 
 def main():
     tournament_link = input("What is the main tournament link page?")
